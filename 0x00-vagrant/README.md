@@ -23,3 +23,5 @@
 [Zero Day](https://en.wikipedia.org/wiki/Zero-day_(computing))
 [Virtual machine](https://en.wikipedia.org/wiki/Virtual_machine)
 [man uname](https://linux.die.net/man/1/uname)
+[Resources to learn Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
+[About Readmes](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-readmes)
